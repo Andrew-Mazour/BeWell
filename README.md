@@ -1,7 +1,7 @@
 # BeWell - A Mental Health App Inspired by BeReal
 
 ## Overview
-BeWell is a mental health app designed to encourage users to engage in activities that improve their well-being. Inspired by BeReal, the app prompts users to capture a moment where they are doing something beneficial for their mental health. Using **Cohere's AI**, BeWell personalizes recommendations based on user behavior and preferences.
+BeWell is a mental health app designed to encourage users to engage in activities that improve their well-being. Inspired by BeReal, the app prompts users to capture a moment where they are doing something beneficial for their mental health. Using **Cohere's AI**, BeWell personalizes recommendations based on user behavior and preferences. 
 
 ## Features
 - 📸 **Daily Prompts:** Users receive reminders to take a picture of their mental health activity.
@@ -11,7 +11,7 @@ BeWell is a mental health app designed to encourage users to engage in activitie
 - 🏆 **Community Engagement:** Optionally share progress with friends for support and encouragement.
 
 ## Tech Stack
-- **Frontend:** TypeScript (React/Next.js)
+- **Frontend:** TypeScript (React Native with Expo Go)
 - **Backend:** Node.js with Express
 - **Database:** MongoDB
 - **AI Integration:** Cohere API for personalized mental health suggestions
@@ -24,6 +24,7 @@ Ensure you have the following installed:
 - MongoDB
 - Google Cloud SDK
 - Cohere API key
+- Expo Go (for mobile testing)
 
 ### Steps
 1. Clone the repository:
@@ -64,4 +65,3 @@ Feel free to submit pull requests and issues to help improve BeWell!
 
 ## License
 This project is licensed under the MIT License.
-
