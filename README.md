@@ -23,7 +23,7 @@ Ensure you have the following installed:
 - Node.js & npm
 - MongoDB
 - Google Cloud SDK
-- Cohere API key
+- Cohere API key (may have to pay for)
 - Expo Go (for mobile testing)
 
 ### Steps
