@@ -1,7 +1,7 @@
 # BeWell - A Mental Health App Inspired by BeReal
 
 ## Overview
-BeWell is a mental health app designed to encourage users to engage in activities that improve their well-being. Inspired by BeReal, the app prompts users to capture a moment where they are doing something beneficial for their mental health. Using **Cohere's AI**, BeWell personalizes recommendations based on user behavior and preferences. 
+BeWell is a mental health app designed to encourage users to engage in activities that improve their well-being. Inspired by BeReal, the app prompts users to capture a moment where they are doing something beneficial for their mental health. Using **Cohere's AI**, BeWell personalizes recommendations based on the user's mood and current state of health.
 
 ## Features
 - 📸 **Daily Prompts:** Users receive reminders to take a picture of their mental health activity.
