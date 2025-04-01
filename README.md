@@ -50,10 +50,11 @@ Ensure you have the following installed:
 
 ## Usage
 1. Sign up and create a profile.
-2. Receive a prompt to take a picture while engaging in a mental wellness activity.
-3. Upload the picture and log how the activity makes you feel.
-4. Get AI-powered suggestions for future activities.
-5. Track your mental health journey over time.
+2. Write about how you are feeling
+3. Receive a prompt to take a picture while engaging in a mental wellness activity.
+4. Upload the picture and log how the activity makes you feel.
+5. Get AI-powered suggestions for future activities.
+6. Track your mental health journey over time.
 
 ## Future Improvements
 - 📅 **Calendar View** for tracking activities.
